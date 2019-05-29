@@ -5,4 +5,5 @@ This is a test file
 import numpy as np
 
 np.arange(10)
-len(range(5))
+
+[print(ii) for ii in range(10)]
